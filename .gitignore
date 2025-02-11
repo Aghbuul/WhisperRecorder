@@ -8,7 +8,8 @@ venv/
 ENV/
 
 # Project specific
-recordings/
+recordings/*
+!recordings/.gitkeep
 app.log
 *.wav
 *.txt
