@@ -6,7 +6,7 @@ A modern desktop application that records audio and transcribes it in real-time 
 ## Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/main_interface_v1.png)
+![Main Interface](screenshots/main_interface.png)
 *The main application window showing the recording interface, latest transcription, and history.*
 
 ### Recording in Progress
