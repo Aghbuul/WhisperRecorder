@@ -1,0 +1,75 @@
+2025-02-11 18:07:02,931 - ERROR - Whisper executable not found at E:\Cursor\Whisper\whisper.cpp\main
+2025-02-11 18:07:02,932 - ERROR - Error initializing Whisper: Whisper executable not found. Please compile whisper.cpp first.
+2025-02-11 18:07:16,994 - ERROR - Error during recording: 'WhisperRecorderApp' object has no attribute 'start_time'
+2025-02-11 18:07:16,995 - INFO - Started recording
+2025-02-11 18:07:21,307 - INFO - Started recording
+2025-02-11 18:07:22,679 - ERROR - Error saving/transcribing recording: 'WhisperRecorderApp' object has no attribute 'transcriber'
+2025-02-11 18:07:27,003 - INFO - Started recording
+2025-02-11 18:07:31,847 - ERROR - Error saving/transcribing recording: 'WhisperRecorderApp' object has no attribute 'transcriber'
+2025-02-11 18:08:58,516 - ERROR - Whisper executable not found at E:\Cursor\Whisper\whisper.cpp\main
+2025-02-11 18:08:58,516 - ERROR - Error initializing Whisper: Whisper executable not found. Please compile whisper.cpp first.
+2025-02-11 18:09:02,678 - ERROR - Error during recording: 'WhisperRecorderApp' object has no attribute 'start_time'
+2025-02-11 18:09:02,679 - INFO - Started recording
+2025-02-11 18:09:09,471 - INFO - Started recording
+2025-02-11 18:09:16,492 - ERROR - Error saving/transcribing recording: 'WhisperRecorderApp' object has no attribute 'transcriber'
+2025-02-11 18:09:37,688 - INFO - Whisper transcriber initialized successfully
+2025-02-11 18:09:39,182 - ERROR - Error during recording: 'WhisperRecorderApp' object has no attribute 'start_time'
+2025-02-11 18:09:39,183 - INFO - Started recording
+2025-02-11 18:09:40,744 - INFO - Started recording
+2025-02-11 18:09:44,955 - INFO - Running Whisper command: E:\Cursor\Whisper\whisper.cpp\build\bin\Release\main.exe -m E:\Cursor\Whisper\whisper.cpp\models/ggml-base.en.bin -f recording_20250211_180944.wav -otxt
+2025-02-11 18:09:44,972 - ERROR - Error running Whisper: Command '['E:\\Cursor\\Whisper\\whisper.cpp\\build\\bin\\Release\\main.exe', '-m', 'E:\\Cursor\\Whisper\\whisper.cpp\\models/ggml-base.en.bin', '-f', 'recording_20250211_180944.wav', '-otxt']' returned non-zero exit status 1.
+2025-02-11 18:09:44,973 - ERROR - Whisper stderr: 
+2025-02-11 18:12:10,360 - INFO - Whisper transcriber initialized successfully
+2025-02-11 18:12:12,191 - ERROR - Error during recording: 'WhisperRecorderApp' object has no attribute 'start_time'
+2025-02-11 18:12:12,192 - INFO - Started recording
+2025-02-11 18:12:14,197 - INFO - Started recording
+2025-02-11 18:12:19,519 - INFO - Running Whisper command: E:\Cursor\Whisper\whisper.cpp\build\bin\Release\main.exe -m E:\Cursor\Whisper\whisper.cpp\models/ggml-base.en.bin -f recording_20250211_181219.wav -otxt
+2025-02-11 18:12:19,538 - ERROR - Error running Whisper: Command '['E:\\Cursor\\Whisper\\whisper.cpp\\build\\bin\\Release\\main.exe', '-m', 'E:\\Cursor\\Whisper\\whisper.cpp\\models/ggml-base.en.bin', '-f', 'recording_20250211_181219.wav', '-otxt']' returned non-zero exit status 1.
+2025-02-11 18:12:19,538 - ERROR - Whisper stderr: 
+2025-02-11 18:12:43,708 - INFO - Whisper transcriber initialized successfully
+2025-02-11 18:12:45,133 - ERROR - Error during recording: 'WhisperRecorderApp' object has no attribute 'start_time'
+2025-02-11 18:12:45,134 - INFO - Started recording
+2025-02-11 18:12:46,133 - INFO - Started recording
+2025-02-11 18:12:48,236 - INFO - Running Whisper command: E:\Cursor\Whisper\whisper.cpp\build\bin\Release\whisper-cli.exe -m E:\Cursor\Whisper\whisper.cpp\models/ggml-base.en.bin -f recording_20250211_181248.wav -otxt -pp -l en -t 4 --output-file recording_20250211_181248
+2025-02-11 18:12:48,441 - ERROR - Transcription file not found after processing
+2025-02-11 18:13:27,493 - INFO - Whisper transcriber initialized successfully
+2025-02-11 18:13:39,895 - ERROR - Error during recording: 'WhisperRecorderApp' object has no attribute 'start_time'
+2025-02-11 18:13:39,896 - INFO - Started recording
+2025-02-11 18:13:40,815 - INFO - Started recording
+2025-02-11 18:13:42,806 - INFO - Running Whisper command: E:\Cursor\Whisper\whisper.cpp\build\bin\Release\whisper-cli.exe -m E:\Cursor\Whisper\whisper.cpp\models/ggml-base.en.bin -f recording_20250211_181342.wav -otxt -pp -l en -t 4 --output-file recording_20250211_181342
+2025-02-11 18:13:43,028 - ERROR - Transcription file not found after processing
+2025-02-11 18:13:45,067 - INFO - Started recording
+2025-02-11 18:13:45,910 - INFO - Running Whisper command: E:\Cursor\Whisper\whisper.cpp\build\bin\Release\whisper-cli.exe -m E:\Cursor\Whisper\whisper.cpp\models/ggml-base.en.bin -f recording_20250211_181345.wav -otxt -pp -l en -t 4 --output-file recording_20250211_181345
+2025-02-11 18:13:46,408 - ERROR - Transcription file not found after processing
+2025-02-11 18:14:58,189 - INFO - Whisper transcriber initialized successfully
+2025-02-11 18:15:00,429 - ERROR - Error during recording: 'WhisperRecorderApp' object has no attribute 'start_time'
+2025-02-11 18:15:00,430 - INFO - Started recording
+2025-02-11 18:15:01,275 - INFO - Started recording
+2025-02-11 18:15:05,677 - INFO - Running Whisper command: E:\Cursor\Whisper\whisper.cpp\build\bin\Release\whisper-cli.exe -m E:\Cursor\Whisper\whisper.cpp\models/ggml-base.en.bin -f recording_20250211_181505.wav -otxt -pp -l en -t 4 --output-file recording_20250211_181505
+2025-02-11 18:15:08,001 - INFO - Successfully transcribed recording: recording_20250211_181505.wav
+2025-02-11 18:15:10,314 - INFO - Started recording
+2025-02-11 18:15:14,658 - INFO - Running Whisper command: E:\Cursor\Whisper\whisper.cpp\build\bin\Release\whisper-cli.exe -m E:\Cursor\Whisper\whisper.cpp\models/ggml-base.en.bin -f recording_20250211_181514.wav -otxt -pp -l en -t 4 --output-file recording_20250211_181514
+2025-02-11 18:17:29,662 - INFO - Whisper transcriber initialized successfully
+2025-02-11 18:17:32,816 - ERROR - Error during recording: 'WhisperRecorderApp' object has no attribute 'start_time'
+2025-02-11 18:17:32,817 - INFO - Started recording
+2025-02-11 18:17:35,512 - INFO - Started recording
+2025-02-11 18:17:40,713 - INFO - Running Whisper command: E:\Cursor\Whisper\whisper.cpp\build\bin\Release\whisper-cli.exe -m E:\Cursor\Whisper\whisper.cpp\models/ggml-base.en.bin -f recording_20250211_181740.wav -otxt -pp -l en -t 4 --output-file recording_20250211_181740
+2025-02-11 18:17:42,907 - INFO - Successfully transcribed recording: recording_20250211_181740.wav
+2025-02-11 18:20:39,712 - INFO - Started recording
+2025-02-11 18:20:39,791 - INFO - Running Whisper command: E:\Cursor\Whisper\whisper.cpp\build\bin\Release\whisper-cli.exe -m E:\Cursor\Whisper\whisper.cpp\models/ggml-base.en.bin -f recording_20250211_182039.wav -otxt -pp -l en -t 4 --output-file recording_20250211_182039
+2025-02-11 18:20:42,559 - INFO - Started recording
+2025-02-11 18:20:46,713 - INFO - Running Whisper command: E:\Cursor\Whisper\whisper.cpp\build\bin\Release\whisper-cli.exe -m E:\Cursor\Whisper\whisper.cpp\models/ggml-base.en.bin -f recording_20250211_182046.wav -otxt -pp -l en -t 4 --output-file recording_20250211_182046
+2025-02-11 18:20:48,909 - INFO - Successfully transcribed recording: recording_20250211_182046.wav
+2025-02-11 18:21:34,204 - INFO - Started recording
+2025-02-11 18:21:40,627 - INFO - Running Whisper command: E:\Cursor\Whisper\whisper.cpp\build\bin\Release\whisper-cli.exe -m E:\Cursor\Whisper\whisper.cpp\models/ggml-base.en.bin -f recording_20250211_182140.wav -otxt -pp -l en -t 4 --output-file recording_20250211_182140
+2025-02-11 18:21:42,877 - INFO - Successfully transcribed recording: recording_20250211_182140.wav
+2025-02-11 18:21:45,978 - INFO - Started recording
+2025-02-11 18:22:00,261 - INFO - Running Whisper command: E:\Cursor\Whisper\whisper.cpp\build\bin\Release\whisper-cli.exe -m E:\Cursor\Whisper\whisper.cpp\models/ggml-base.en.bin -f recording_20250211_182200.wav -otxt -pp -l en -t 4 --output-file recording_20250211_182200
+2025-02-11 18:22:03,340 - INFO - Successfully transcribed recording: recording_20250211_182200.wav
+2025-02-11 18:22:48,020 - INFO - Started recording
+2025-02-11 18:22:48,044 - INFO - Running Whisper command: E:\Cursor\Whisper\whisper.cpp\build\bin\Release\whisper-cli.exe -m E:\Cursor\Whisper\whisper.cpp\models/ggml-base.en.bin -f recording_20250211_182248.wav -otxt -pp -l en -t 4 --output-file recording_20250211_182248
+2025-02-11 18:22:51,813 - INFO - Started recording
+2025-02-11 18:22:54,785 - INFO - Running Whisper command: E:\Cursor\Whisper\whisper.cpp\build\bin\Release\whisper-cli.exe -m E:\Cursor\Whisper\whisper.cpp\models/ggml-base.en.bin -f recording_20250211_182254.wav -otxt -pp -l en -t 4 --output-file recording_20250211_182254
+2025-02-11 18:22:58,579 - INFO - Successfully transcribed recording: recording_20250211_182254.wav
+2025-02-11 18:23:28,953 - INFO - Started recording
+2025-02-11 18:23:29,657 - INFO - Running Whisper command: E:\Cursor\Whisper\whisper.cpp\build\bin\Release\whisper-cli.exe -m E:\Cursor\Whisper\whisper.cpp\models/ggml-base.en.bin -f recording_20250211_182329.wav -otxt -pp -l en -t 4 --output-file recording_20250211_182329
