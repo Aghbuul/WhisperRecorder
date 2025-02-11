@@ -17,6 +17,10 @@ A modern desktop application that records audio and transcribes it in real-time 
 ![Settings](screenshots/settings.png)
 *Settings panel showing hotkey information and console toggle.*
 
+### Initial Setup
+![Setup](screenshots/setup.png)
+*The setup wizard will help you configure the application for your system.*
+
 ## Features
 
 - **One-Click Recording**: Start/stop recording with Ctrl+Shift+C (works even when minimized)
@@ -32,11 +36,19 @@ A modern desktop application that records audio and transcribes it in real-time 
 - Windows 10/11
 - Python 3.8 or higher
 
-## Quick Start
+## Installation & Setup
 
 1. Download and extract the latest release from GitHub
-2. Double-click `setup.bat` and confirm your installation directory
-3. Run `run_whisper.bat` to start the application (will request admin privileges for global hotkeys)
+2. Double-click `setup.bat` to launch the setup wizard
+3. In the setup window (shown above), you'll see your current installation path
+   - You can keep this path by clicking "OK"
+   - Or enter a different path if you prefer another location
+4. The setup will:
+   - Configure the application for your system
+   - Create necessary directories
+   - Set up file paths correctly
+5. After setup completes, run `run_whisper.bat` to start the application
+   - Note: The app needs admin privileges for global hotkeys to work
 
 ## Usage
 
