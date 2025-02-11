@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Project specific
+recordings/
+app.log
+*.wav
+*.txt
+!requirements.txt
+!run_whisper.txt
+
+# Whisper.cpp - only include essential files
+whisper.cpp/*
+!whisper.cpp/models/
+whisper.cpp/models/*
+!whisper.cpp/models/ggml-base.en.bin
+!whisper.cpp/build/
+whisper.cpp/build/*
+!whisper.cpp/build/bin/
+whisper.cpp/build/bin/*
+!whisper.cpp/build/bin/Release/
+whisper.cpp/build/bin/Release/*
+!whisper.cpp/build/bin/Release/whisper-cli.exe
+!whisper.cpp/build/bin/Release/whisper.dll
+!whisper.cpp/build/bin/Release/ggml.dll
+!whisper.cpp/build/bin/Release/ggml-cpu.dll
+!whisper.cpp/build/bin/Release/ggml-base.dll
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/ 
