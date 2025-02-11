@@ -1,10 +1,1 @@
-2025-02-11 18:22:58|Hey, hey, hey, hey, hey, hey, hey, hey...
-2025-02-11 18:22:03|OK, I'm going to start yapping real fast, right?
- So let's think about some words.
- Yangon, NMR, Dell, chat GPT.
- I want you to write a script that will transform my words
- into typed out words on the computer.
-2025-02-11 18:21:42|Hello, testing 123.
-2025-02-11 18:20:48|[BLANK_AUDIO]
-2025-02-11 18:17:42|[BLANK_AUDIO]
-2025-02-11 18:17:29|[BLANK_AUDIO]
+
