@@ -19,6 +19,7 @@ A modern desktop application that records audio and transcribes it in real-time 
 
 ### Initial Setup
 ![Setup](screenshots/setup.png)
+
 *The setup wizard will help you configure the application for your system.*
 
 ## Features
