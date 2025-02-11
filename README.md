@@ -1,4 +1,5 @@
 # Whisper Recorder
+<!-- Last updated: 2024-02-11 -->
 
 A modern desktop application that records audio and transcribes it in real-time using OpenAI's Whisper model (via whisper.cpp). Features a clean, dark-themed interface and global hotkey support.
 
